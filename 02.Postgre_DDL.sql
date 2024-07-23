@@ -1,4 +1,4 @@
---Name : Postgre DDL Script
+
 --Owner : SRI
 --Date cre : 08102022
 --Modified date : 
